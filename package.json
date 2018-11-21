@@ -1,5 +1,5 @@
 {
-  "name": "csv-stream",
+  "name": "csv-escaped-stream",
   "version": "0.2.0",
   "description": "Simple CSV stream",
   "main": "index.js",
@@ -21,6 +21,6 @@
     "csv",
     "stream"
   ],
-  "author": "Remy Loubradou <remyloubradou@gmail.com>",
+  "author": "Diego Correa <info@ikkuna.io>",
   "license": "MIT"
 }
